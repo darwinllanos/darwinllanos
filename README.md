@@ -1,11 +1,11 @@
 <h1>Quién soy</h1>
-Hola 👋, mi nombre es jhon darwin llanos y soy desarrollador 👨‍💻 Full Stack apasionado y dedicado 👨‍🎓, con una notable capacidad de concentración que me permite maximizar la productividad y consolidar proyectos en menor tiempo ⏰.
-
+<p>Hola 👋, mi nombre es jhon darwin llanos y soy desarrollador 👨‍💻 Full Stack diciplinado, comprometido con mis deberes y dedicado con cada uno de mis propositos 👨‍🎓, con una notable capacidad de concentración que me permite maximizar la productividad y consolidar proyectos en menor tiempo ⏰ gracias a la lectura.</p>
+<br>
 <h3>Puntos de contacto</h3>
-LinkedIn: https://www.linkedin.com/in/jhonllanosfullstack/
-Portafolio: (Pendiente el link)
-Gmail: jhondarwinllanosnarvaez@gmail.com
-
+<p>LinkedIn: https://www.linkedin.com/in/jhonllanosfullstack/</p>
+<p>Portafolio: (Pendiente el link)</p>
+<p>Gmail: jhondarwinllanosnarvaez@gmail.com</p>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- JavaScript -->
@@ -118,26 +118,30 @@ Gmail: jhondarwinllanosnarvaez@gmail.com
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 10px;"/>
   </a>
 </p>
-
+<br/>
 
 <h3>Experiencia en tecnologías</h3>
-A lo largo de mi carrera como desarrollador, me he topado con tecnologías como:
-- JavaScript
-- TypeScript
-- Python
-- Java
-- HTML
-- CSS
-- Express
-- NestJS
-- Node.js
-- Visual Studio
-- Next.js
-- Bootstrap
-- Entre otras
+<p>A lo largo de mi carrera como desarrollador, me he topado con tecnologías como:</p>
+<ul>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>Python</li>
+  <li>Java</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Express</li>
+  <li>NestJs</li>
+  <li>NextJs</li>
+  <li>NodeJs</li>
+  <li>Boostrap</li>
+  <li>Visual Studio</li>
+  <li>Entre Otras</li>
+</ul>
+<br/>
 
 <h3>Propuesta de valor</h3>
-Conmigo, obtendrás un desarrollador comprometido con los objetivos de la empresa, con habilidades clave para la resolución de problemas, implementación de nuevas funciones y rápida adaptación al método de trabajo del equipo. Además, destaco por mi entusiasmo por aprender de profesionales con mayor experiencia, lo que me permite ampliar constantemente mis habilidades y contribuir de manera significativa al crecimiento de la compañía.
+<p>Conmigo, obtendrás un desarrollador comprometido con los objetivos de la empresa, con habilidades clave para la resolución de problemas, implementación de nuevas funciones y rápida adaptación al método de trabajo del equipo. Además, destaco por mi entusiasmo por aprender de profesionales con mayor experiencia, lo que me permite ampliar constantemente mis habilidades y contribuir de manera significativa al crecimiento de la compañía. Para concluir estoy seguro que habra programadores mejores que yo en algo, pero yo a diferencia de los demas soy bueno en todo lo que hago</p>
+</br>
 
 <h3>Acerca de mi</h3>
-Soy una persona que valora su tiempo y busca aprender constantemente. Uno de mis grandes deseos es ser polímata, por lo que en mi tiempo libre leo, toco instrumentos musicales, practico deporte y, por supuesto, programo. La programación es mi gran objetivo, y en 2025 demostraré de lo que soy capaz frente a cualquier compañía, aportando ideas innovadoras y adaptándome al método de trabajo de la empresa.
+<p>Soy una persona que valora su tiempo y busca aprender constantemente. Uno de mis grandes deseos es ser polímata, por lo que en mi tiempo libre leo, toco instrumentos musicales, practico deporte y, por supuesto, programo. La programación es mi gran objetivo, y en 2025 demostraré de lo que soy capaz frente a cualquier compañía, aportando ideas innovadoras y adaptándome al método de trabajo de la empresa.</p>
