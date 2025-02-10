@@ -3,7 +3,7 @@
 <br>
 <h3>Puntos de contacto</h3>
 <p>LinkedIn: https://www.linkedin.com/in/jhonllanosfullstack/</p>
-<p>Portafolio: (Pendiente el link)</p>
+<p>Portafolio: (Publicacion 15/02/25)</p>
 <p>Gmail: jhondarwinllanosnarvaez@gmail.com</p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
