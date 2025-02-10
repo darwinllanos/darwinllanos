@@ -87,23 +87,36 @@
 </p>
 
 
-<h2>Experiencia en tecnologías</h2>
-<p>A lo largo de mi carrera como desarrollador, me he topado con tecnologías como:</p>
+<h2>🚀 Experiencia en Tecnologías</h2>
+<p>A lo largo de mi carrera como desarrollador, he trabajado con diversas tecnologías, destacando principalmente:</p>
+
+<h3>📌 Lenguajes</h3>
 <ul>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>Python</li>
-  <li>Java</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Express</li>
-  <li>NestJs</li>
-  <li>NextJs</li>
-  <li>NodeJs</li>
-  <li>Boostrap</li>
-  <li>Visual Studio</li>
+  <li>⚡ <strong>JavaScript</strong> (Principal)</li>
+  <li>⚡ <strong>TypeScript</strong> (Principal)</li>
+  <li>🐍 Python</li>
+  <li>☕ Java</li>
+  <li>🌐 HTML</li>
+  <li>🎨 CSS</li>
 </ul>
-<br/>
+
+<h3>🛠️ Frameworks & Librerías</h3>
+<ul>
+  <li>🚀 Express</li>
+  <li>🔥 NestJS</li>
+  <li>⚛️ Next.js</li>
+  <li>🟢 Node.js</li>
+  <li>🎨 Bootstrap</li>
+</ul>
+
+<h3>🛠️ Herramientas & IDEs</h3>
+<ul>
+  <li>🖥️ Visual Studio Code</li>
+  <li>🐳 Docker</li>
+  <li>🧪 Jest</li>
+  <li>🔗 Git</li>
+</ul>
+
 
 <h2>Propuesta de valor</h2>
 <p>✨ Conmigo, obtendrás un desarrollador 👨‍💻 comprometido 🤝 con los objetivos de la empresa 🏢, con habilidades clave para la resolución de problemas 🧩, implementación de nuevas funciones 🚀 y rápida adaptación 🔄 al método de trabajo del equipo 👥.
@@ -113,7 +126,7 @@
 </br>
 
 <h2>Acerca de mi</h2>
-<p>⏳ **Soy una persona que valora su tiempo** y busca aprender constantemente 📖. Uno de mis grandes deseos es ser **polímata** 🧠, por lo que en mi tiempo libre:
+<p>⏳ Soy una persona que valora su tiempo y busca aprender constantemente 📖. Uno de mis grandes deseos es ser **polímata** 🧠, por lo que en mi tiempo libre:
 🎵 Toco instrumentos musicales
 🏃‍♂️ Practico deporte
 📚 Leo sobre diversos temas
