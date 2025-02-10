@@ -140,7 +140,7 @@
 <br/>
 
 <h3>Propuesta de valor</h3>
-<p>Conmigo, obtendrás un desarrollador comprometido con los objetivos de la empresa, con habilidades clave para la resolución de problemas, implementación de nuevas funciones y rápida adaptación al método de trabajo del equipo. Además, destaco por mi entusiasmo por aprender de profesionales con mayor experiencia, lo que me permite ampliar constantemente mis habilidades y contribuir de manera significativa al crecimiento de la compañía. Para concluir estoy seguro que habra programadores mejores que yo en algo, pero yo a diferencia de los demas soy bueno en todo lo que hago</p>
+<p>Conmigo, obtendrás un desarrollador comprometido con los objetivos de la empresa, con habilidades clave para la resolución de problemas, implementación de nuevas funciones y rápida adaptación al método de trabajo del equipo. Además, destaco por mi entusiasmo por aprender de profesionales con mayor experiencia, lo que me permite ampliar constantemente mis habilidades y contribuir de manera significativa al crecimiento de la compañía. Estoy convencido de que siempre habrá desarrolladores con fortalezas específicas, pero lo que me diferencia es mi versatilidad, compromiso y excelencia en todo lo que hago.</p>
 </br>
 
 <h3>Acerca de mi</h3>
