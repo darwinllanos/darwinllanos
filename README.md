@@ -94,8 +94,6 @@
 <ul>
   <li>⚡ <strong>JavaScript</strong> (Principal)</li>
   <li>⚡ <strong>TypeScript</strong> (Principal)</li>
-  <li>🐍 Python</li>
-  <li>☕ Java</li>
   <li>🌐 HTML</li>
   <li>🎨 CSS</li>
 </ul>
@@ -113,10 +111,9 @@
 <ul>
   <li>🖥️ Visual Studio Code</li>
   <li>🐳 Docker</li>
-  <li>🧪 Jest</li>
   <li>🔗 Git</li>
 </ul>
-
+<br />
 
 <h2>Propuesta de valor</h2>
 <p>✨ Conmigo, obtendrás un desarrollador 👨‍💻 comprometido 🤝 con los objetivos de la empresa 🏢, con habilidades clave para la resolución de problemas 🧩, implementación de nuevas funciones 🚀 y rápida adaptación 🔄 al método de trabajo del equipo 👥.
