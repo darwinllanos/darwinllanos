@@ -85,7 +85,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin: 10px;"/>
   </a>
 </p>
-
+<br />
 
 <h2>🚀 Experiencia en Tecnologías</h2>
 <p>A lo largo de mi carrera como desarrollador, he trabajado con diversas tecnologías, destacando principalmente:</p>
