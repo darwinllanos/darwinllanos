@@ -1,5 +1,5 @@
 <h1>Quién soy</h1>
-<p>Hola 👋, mi nombre es jhon darwin llanos y soy desarrollador 👨‍💻 Full Stack diciplinado, comprometido con mis deberes y dedicado con cada uno de mis propositos 👨‍🎓, con una notable capacidad de concentración que me permite maximizar la productividad y consolidar proyectos en menor tiempo ⏰ gracias a la lectura.</p>
+<p>Hola 👋, mi nombre es jhon darwin llanos y soy desarrollador 👨‍💻 Full Stack diciplinado, comprometido con mis deberes y dedicado con cada uno de mis propositos 👨‍🎓, con una notable capacidad de concentración que me permite maximizar la productividad y consolidar proyectos en menor tiempo ⏰ gracias a unos de mis habitos como lo es la lectura.</p>
 <br>
 <h3>Puntos de contacto</h3>
 <p>LinkedIn: https://www.linkedin.com/in/jhonllanosfullstack/</p>
@@ -106,8 +106,17 @@
 <br/>
 
 <h2>Propuesta de valor</h2>
-<p>Conmigo, obtendrás un desarrollador comprometido con los objetivos de la empresa, con habilidades clave para la resolución de problemas, implementación de nuevas funciones y rápida adaptación al método de trabajo del equipo. Además, destaco por mi entusiasmo por aprender de profesionales con mayor experiencia, lo que me permite ampliar constantemente mis habilidades y contribuir de manera significativa al crecimiento de la compañía. Estoy convencido de que siempre habrá desarrolladores con fortalezas específicas, pero lo que me diferencia es mi versatilidad, compromiso y excelencia en todo lo que hago.</p>
+<p>✨ Conmigo, obtendrás un desarrollador 👨‍💻 comprometido 🤝 con los objetivos de la empresa 🏢, con habilidades clave para la resolución de problemas 🧩, implementación de nuevas funciones 🚀 y rápida adaptación 🔄 al método de trabajo del equipo 👥.
+📚 Además, destaco por mi entusiasmo por aprender 🎓 de profesionales con mayor experiencia, lo que me permite ampliar constantemente mis habilidades 🛠️ y contribuir de manera significativa al crecimiento 📈 de la compañía.
+
+💡 Estoy convencido de que siempre habrá desarrolladores con fortalezas específicas, pero lo que me diferencia es mi versatilidad 🔄, compromiso 💪 y excelencia 🌟 en todo lo que hago.</p>
 </br>
 
 <h2>Acerca de mi</h2>
-<p>Soy una persona que valora su tiempo y busca aprender constantemente. Uno de mis grandes deseos es ser polímata, por lo que en mi tiempo libre leo, toco instrumentos musicales, practico deporte y, por supuesto, programo. La programación es mi gran objetivo, y en 2025 demostraré de lo que soy capaz frente a cualquier compañía, aportando ideas innovadoras y adaptándome al método de trabajo de la empresa.</p>
+<p>⏳ **Soy una persona que valora su tiempo** y busca aprender constantemente 📖. Uno de mis grandes deseos es ser **polímata** 🧠, por lo que en mi tiempo libre:
+🎵 Toco instrumentos musicales
+🏃‍♂️ Practico deporte
+📚 Leo sobre diversos temas
+💻 Y, por supuesto, programo.
+
+🚀 La programación es mi gran objetivo, y en 2025 demostraré de lo que soy capaz frente a cualquier compañía 🏢, aportando ideas innovadoras 💡 y adaptándome al método de trabajo del equipo 👥.</p>
