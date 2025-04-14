@@ -3,7 +3,7 @@
 <br>
 <h3>Puntos de contacto</h3>
 <p>LinkedIn: https://www.linkedin.com/in/jhonllanosfullstack/</p>
-<p>Portafolio: (Publicacion 15/02/25)</p>
+<p>Portfolio: https://jhonllanos-25llz3kw6-darwinllanos-projects.vercel.app/</p>
 <p>Gmail: jhondarwinllanosnarvaez@gmail.com</p>
 <p>Curriculum: <a href="https://1drv.ms/w/c/cb9ffb8a5f0b4deb/EetNC1-K-58ggMuF6QEAAAABXxywhJ-O0pXvY6H_VoFUng?e=Npc41G">Click Curriculum</a></p>
 <br>
